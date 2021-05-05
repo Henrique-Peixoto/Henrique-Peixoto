@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m constantly learning front-end development using React, and everything that surrounds it.
 
-- 📫 How to reach me: LinkedIn https://www.linkedin.com/in/henrique-peixoto-00/ 
+- 📫 How to reach me: LinkedIn https://www.linkedin.com/in/henrique-peixoto-00/ and academic e-mail hpribeiro@inf.ufrgs.br
