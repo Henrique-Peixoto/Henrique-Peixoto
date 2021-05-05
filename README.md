@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Henrique, down below you are going to find some information about me 😄
 
 <!--
 **Henrique-Peixoto/Henrique-Peixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently graduating at Computer Science at Federal University of Rio Grande do Sul (Brazil).
+
+- 🌱 I’m constantly learning front-end development using React, and everything that surrounds it.
+
+- 📫 How to reach me: LinkedIn https://www.linkedin.com/in/henrique-peixoto-00/ 
