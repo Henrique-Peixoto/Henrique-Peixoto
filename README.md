@@ -1,4 +1,5 @@
 ### Hi, my name is Henrique, down below you are going to find some information about me 😄
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique-Peixoto)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Henrique-Peixoto/Henrique-Peixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
