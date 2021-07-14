@@ -18,7 +18,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m constantly learning front-end development using React, and everything that surrounds it.
 
-- 📫 How to reach me: LinkedIn https://www.linkedin.com/in/henrique-peixoto-00/ and academic e-mail hpribeiro@inf.ufrgs.br
+- 📫 How to reach me: 
+<a href="https://www.linkedin.com/in/henrique-peixoto-00/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Henrique-Peixoto">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ## Technologies that I use
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][vscode]
