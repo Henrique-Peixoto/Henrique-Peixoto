@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently taking a Masters on Computer Science at the Federal University of Rio Grande do Sul (Brazil).
+- 🔭 I’m currently taking a Masters on Natural Language Processing at the Federal University of Rio Grande do Sul (Brazil).
 
 - 🌱 I’m constantly improving my hard and soft skills.
 
